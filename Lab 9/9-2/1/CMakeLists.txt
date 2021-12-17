@@ -1,0 +1,1 @@
+add_executable( Aniamls main.cpp animal.cpp )

@@ -1,0 +1,1 @@
+add_executable( minesweeper minesweeper_main.cc minesweeper.cc )
